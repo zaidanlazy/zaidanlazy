@@ -1,49 +1,175 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:0d1a0d,100:0a0a0a&height=220&section=header&text=zaidanlazy&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=future%20software%20engineer%20%E2%80%A2%20indonesia&descAlignY=72&descColor=4a7c4a&descSize=14"/>
+<p align="center">
+    <img width="98%"
+        src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=zaidanlazy&reversal=false&section=header&animation=twinkling" />
+</p>
 
-</div>
+<br />
 
----
+#
+<table align="center">
+    <tr>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55"
+                height="55" />
+            <br>React
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
+            <br>Three.js
+        </td>
+        <td align="center" width="90">
+            <img
+                src="https://techstack-generator.vercel.app/redux-icon.svg"
+                alt="icon"
+                width="65"
+                height="65"
+            />
+            <br>Redux
+        </td>
+        <td align="center" width="90">
+            <img
+                src="https://techstack-generator.vercel.app/django-icon.svg"
+                alt="icon"
+                width="65"
+                height="65"
+            />
+            <br>Djagno
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
+            <br>Tailwind
+        </td>
+        <td align="center" width="90">
+            <img
+                src="https://techstack-generator.vercel.app/kubernetes-icon.svg"
+                alt="icon"
+                width="65"
+                height="65"
+            />
+            <br>Kubernetes
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
+            <br>MaterialUI
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48"
+                height="48" alt="MySQL" />
+            <br>GraphQL
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
+            <br>Vue
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
+            <br>Nuxt.js
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48"
+                height="48" />
+            <br>AWS
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55"
+                height="55" />
+            <br>Typescript
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="MongoDB" />
+            <br>Go
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
+            <br>Java
+        </td>
+        <td align="center" width="90">
+            <img
+                src="https://techstack-generator.vercel.app/sass-icon.svg"
+                alt="icon"
+                width="65"
+                height="65"
+            />
+            <br>Sass
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+            <br>MongoDB
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55"
+                height="55" />
+            <br>MySQL
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45"
+                alt="PostgreSQL" />
+            <br>PostgreSQL
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
+            <br>PHP
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
+            <br>SQLite
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55"
+                height="55" />
+            <br>Python
+        </td>
+        <td align="center" width="90">
+            <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="48"
+                height="48" style="border-radius: 15px;" alt="Solana" />
+            <br>Solana
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55"
+                height="55" />
+            <br>REST API
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55"
+                height="55" />
+            <br>Javascript
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65"
+                height="65" />
+            <br>Docker
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
+            <br>Next.js
+        </td>
+        <td align="center" width="90">
+            <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="48"
+                height="48" alt="Ethereum" />
+            <br>Ethereum
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
+            <br>Solidity
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
+            <br>Rust
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
+            <br>Angular
+        </td>
+    </tr>
+</table>
+<br />
 
-## Tech Stack
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaidanlazy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=4a9a4a&icon_color=4a9a4a&text_color=ffffff" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidanlazy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=4a9a4a&text_color=ffffff" height="160"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaidanlazy&theme=tokyonight&hide_border=true&background=0a0a0a&ring=4a9a4a&fire=4a9a4a&currStreakLabel=4a9a4a"/>
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
-[![TikTok](https://img.shields.io/badge/TikTok-ffffff?style=flat-square&logo=tiktok&logoColor=black)](https://www.tiktok.com/@shesssnvyyz43)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yza4058@gmail.com)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:0d1a0d,100:0a0a0a&height=80&section=footer&reversal=true"/>
+![github contribution grid snake
+animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github
+contribution grid snake
+animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
